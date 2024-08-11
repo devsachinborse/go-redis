@@ -1,4 +1,4 @@
-## To install Redis on Windows Subsystem for Linux (WSL), follow these steps:
+## To install Redis on Windows Subsystem for Linux 🐧 (WSL), follow these steps:
 
 #### Step 1: Update your package lists
 First, ensure your package lists are up to date:
