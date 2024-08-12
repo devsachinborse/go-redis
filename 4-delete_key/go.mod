@@ -1,4 +1,4 @@
-module github.com/devsachinborse/go-redis-helloworld
+module github.com/devsachinborse/go-redis
 
 go 1.18
 
